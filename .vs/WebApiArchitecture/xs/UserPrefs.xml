@@ -1,0 +1,65 @@
+﻿<Properties StartupConfiguration="{F959E799-EAC0-4178-8280-5071C17AF830}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Repository/Repositories/CountryRepository.cs">
+    <Files>
+      <File FileName="Repository/Data/AppDbContext.cs" />
+      <File FileName="Repository/Repositories/Interfaces/IBaseRepository.cs" />
+      <File FileName="Repository/Repositories/BaseRepository.cs" Line="40" Column="46" />
+      <File FileName="Repository/Migrations/20240624180012_initial.cs" />
+      <File FileName="Repository/Migrations/AppDbContextModelSnapshot.cs" />
+      <File FileName="Repository/Repositories/Interfaces/ICountryRepository.cs" />
+      <File FileName="Repository/Repositories/CountryRepository.cs" Line="8" Column="81" />
+      <File FileName="WebApiArchitecture/Program.cs" />
+      <File FileName="Service/DependencyInjection.cs" />
+      <File FileName="Repository/DependencyInjection.cs" />
+      <File FileName="Service/DTOs/Admin/Countries/CountryDto.cs" />
+      <File FileName="Service/DTOs/Admin/Countries/CountryCreateDto.cs" />
+      <File FileName="Service/Helpers/MappingProfile.cs" />
+      <File FileName="Service/Services/Interfaces/ICountryService.cs" />
+      <File FileName="Service/Services/CountryService.cs" />
+      <File FileName="WebApiArchitecture/Controllers/Admin/CountryController.cs" Line="94" Column="71" />
+      <File FileName="WebApiArchitecture/Controllers/Admin/BaseController.cs" />
+      <File FileName="Service/DTOs/Admin/Countries/CountryEditDto.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApiArchitecture" expanded="True">
+            <Node name="Domain" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="Repository" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="CountryRepository.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Service" expanded="True">
+              <Node name="DTOs" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Countries" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Helpers" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WebApiArchitecture" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="Admin" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApiArchitecture PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
